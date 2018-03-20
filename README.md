@@ -1,2 +1,7 @@
-# ModuleDemo
-android组件化实现Demo
+### 组件化需要解决的问题
+- 组件之间的通信
+- 组建模式和集成模式自动切换
+- 全局Context的获取和组件数据初始化
+- lib重复依赖
+- 组件之间资源名冲突
+- 组件之间AndroidManifest合并
